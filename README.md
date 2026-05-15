@@ -13,7 +13,7 @@
 **Data Analyst · Junior Software Developer**  
 *Building at the intersection of data and code.*
  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portafolio.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://tu-portafolio.github.io](https://ivangacha89.github.io/PersonalWeb/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivangachancipa)
  
 </div>
